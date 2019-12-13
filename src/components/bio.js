@@ -54,7 +54,7 @@ const Bio = () => {
         }}
       />
       <p>
-        I am <strong>{author}</strong>, learning to program functional way.
+        I am <strong>{author}</strong>, learning to program the right way.
       </p>
     </div>
   )
